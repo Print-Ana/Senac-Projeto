@@ -1,0 +1,53 @@
+
+     h1:hover
+      {
+       color:  #45A29E;
+
+      }   
+      
+      h1 {
+        font-family: monospace;
+        font-size: large;
+        color: #45A29E; 
+        
+    }
+   
+
+@media  screen and ( min-width: 800px) {
+.div2 {
+    
+    border: 2px solid #66FCF1;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #1F2833;
+    max-width: 200px;
+    width: 100%;
+    
+}
+}
+
+.div3 {
+
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    position: absolute;
+    right: 5%;
+    color: #45A29E;
+    font-family: monospace;
+    font-size: x-large
+
+}
+h2 {
+    font-family: monospace;
+    font-size: large;
+    color: #45A29E; 
+    
+}
+
+h3 {
+    font-size: large;
+    font-family: monospace; 
+    color: #66FCF1; 
+    
+}
